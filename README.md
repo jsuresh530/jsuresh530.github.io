@@ -68,4 +68,4 @@ Design & Collaboration: Figma, Miro, Slack
 
 ---
 
-⭐️ From [Suresh Jonnalagadda](https://github.com/yourusername)
+⭐️ From [Suresh Jonnalagadda](https://github.com/jsuresh530)
